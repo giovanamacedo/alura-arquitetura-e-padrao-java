@@ -1,4 +1,4 @@
-package ModuloUm.service;
+package ModuloUm.service.reajuste;
 
 import ModuloUm.model.Funcionario;
 

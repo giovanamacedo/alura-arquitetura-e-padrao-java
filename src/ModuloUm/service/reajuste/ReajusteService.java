@@ -1,12 +1,8 @@
-package ModuloUm.service;
+package ModuloUm.service.reajuste;
 
-import ModuloUm.ValidacaoException;
 import ModuloUm.model.Funcionario;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
-import java.time.LocalDate;
-import java.time.temporal.ChronoUnit;
 import java.util.List;
 
 public class ReajusteService {
