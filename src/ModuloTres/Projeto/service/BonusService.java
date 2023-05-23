@@ -1,8 +1,8 @@
-package ModuloTres.service;
+package ModuloTres.Projeto.service;
 
 import java.math.BigDecimal;
 
-import ModuloTres.modelo.Funcionario;
+import ModuloTres.Projeto.modelo.Funcionario;
 
 public class BonusService {
 
