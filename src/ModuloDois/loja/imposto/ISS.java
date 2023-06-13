@@ -1,6 +1,6 @@
-package ModuloDois.imposto;
+package ModuloDois.loja.imposto;
 
-import ModuloDois.orcamento.Orcamento;
+import ModuloDois.loja.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 
